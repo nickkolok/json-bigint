@@ -19,6 +19,9 @@
   ],
   "author": "Andrey Sidorov <sidorares@yandex.ru>",
   "license": "MIT",
+  "contributors": [
+    "Nikolai Avdeev <nickkolok@mail.ru>",
+  ],
   "dependencies": {
     "bignumber.js": "^7.0.0"
   },
